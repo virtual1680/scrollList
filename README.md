@@ -119,7 +119,7 @@ setTimeout(() => {
 
 ### 图片
 
-![Alt text](https://github.com/QinHongYang/transfer/blob/master/WechatIMG26.png?raw=true)
+<!-- ![Alt text](https://github.com/QinHongYang/transfer/blob/master/WechatIMG26.png?raw=true) -->
 
 ### Customize configuration
 
