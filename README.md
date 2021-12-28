@@ -19,6 +19,7 @@ yarn add q-scroll-list
 
 ```
 import QScrollList from 'q-scroll-list';
+import "q-scroll-list/index.css";
 const app = createApp(App);
 app.use(QScrollList);
 

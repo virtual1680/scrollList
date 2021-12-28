@@ -1,6 +1,6 @@
 {
   "name": "q-scroll-list",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "vue3+ts 列表数据向上滚动",
   "author":"itperson <virtual1680@gmail.com>",
   "license": "MIT",
